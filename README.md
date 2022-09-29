@@ -4,7 +4,7 @@ functions,logic statements, and many more fundementals to kick off your programm
 
 Part 1: We will be a walk through of these various concepts with examples and small exercises.
 
-Part 2: Amore in depth excersie exploring real world data and applying some of the concepts we learned to put our new skills to the test.
+Part 2: A more in depth excersie exploring real world data and applying some of the concepts we learned to put our new skills to the test.
 
 
 # Download Python
