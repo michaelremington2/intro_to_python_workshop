@@ -1,4 +1,4 @@
-# intro_to_python_workshop
+# Intro to Python Workshop
 This workshop is an introduction to the basics of the programming language python. Topics such as setting variables, data types, string manipulation,
 functions,logic statements, and many more fundementals to kick off your programming career and ambitions!
 
